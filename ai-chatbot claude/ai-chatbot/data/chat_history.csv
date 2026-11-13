@@ -1,0 +1,80 @@
+chat_no,timestamp,question,answer,question_words,answer_words,response_time_sec
+1,2026-10-23 13:40:48,hi,"Hello! 👋 
+
+I am happy to help you today. What are you studying? 
+
+You can ask me questions about math, science, English, or any homework! How can I help you?",1,30,2.83
+2,2026-10-23 13:42:01,can i learn mathematics ?,"Yes, absolutely! Anyone can learn math. 
+
+Math is just like a puzzle. With a little practice, it gets much easier!
+
+What would you like to start with? Here are some ideas:
+
+* **Basic Math** (adding, subtracting, multiplying)
+* **Fractions** (like cutting a pizza into pieces)
+* **Algebra** (finding missing numbers, like $x + 2 = 5$)
+
+Tell me what you want to learn, or tell me your grade level, and we can begin!",5,73,4.0
+3,2026-10-23 13:43:00,how can i change the theme of my chatbot ai,"Are you building your own chatbot project, or are you using a specific app right now? 
+
+Here is how to do both:
+
+### Option 1: If you are using an app or website
+Most AI apps let you change to Dark Mode or Light Mode:
+1. Look for a **Settings** icon ⚙️ (usually at the top or bottom corner).
+2. Click on **Appearance** or **Theme**.
+3. Choose **Dark Mode** or **Light Mode**.
+
+---
+
+### Option 2: If you are coding/making your own chatbot
+You can change how it looks using code:
+* **CSS:** You can change background colors, text colors, and fonts using CSS code.
+* **Libraries:** If you use tools like HTML or React, you can add a toggle button for dark mode.
+
+***
+
+**Which one are you trying to do?** Tell me more, and I can give you exact steps!",10,142,6.38
+4,2026-10-23 13:43:32,you are made by me i am the creator,"Hello Creator! 🤖 
+
+If you built me, you must be a coding genius! 
+
+In reality, I am an AI made to help students like you learn. But **you can become a real creator!** 
+
+Would you like to learn how people build real AI chatbots using computer code? I can show you simple examples!",9,53,4.71
+5,2026-10-23 13:50:59,hi,"Hello again! 👋 
+
+Are you ready to learn something new today? 
+
+We can:
+1. **Do some Math** (like addition, fractions, or algebra)
+2. **Learn about Coding** (how to build simple apps or chatbots)
+
+Which one sounds fun to you?",1,39,3.2
+6,2026-10-23 13:52:16,hi,"Hi there! 😊
+
+How are you doing today? 
+
+Whenever you are ready, just tell me what you would like to do!",1,21,2.57
+7,2026-10-23 13:53:26,how to sing good,"Singing well takes practice! Here are 5 easy tips to help you sing better:
+
+### 1. Stand up straight
+Good posture helps your air flow easily. Keep your back straight and your shoulders relaxed.
+
+### 2. Breathe from your belly
+Take a deep breath. Your **belly** should move out when you breathe in, not your shoulders! This gives your voice more power.
+
+### 3. Warm up your voice
+Before you sing, warm up your voice box:
+* **Humming:** Make a ""mmmm"" sound like a bee 🐝.
+* **Lip Trills:** Blow air through your lips to make a motorboat sound (""brrrr"").
+
+### 4. Drink warm water
+Water keeps your throat healthy. Avoid ice-cold drinks or milk right before singing because they can make your throat sticky.
+
+### 5. Listen and match the note
+Pick a simple song you love. Listen closely and try to match the singer's voice exactly. 
+
+***
+
+Would you like a quick, fun singing exercise to try right now?",4,161,4.77

@@ -1,0 +1,23 @@
+chat_no,timestamp,question,answer,question_words,answer_words,response_time_sec
+1,2026-10-31 15:55:14,hi,"Hi there! 
+
+How can I help you today? 
+
+I can help you with:
+- Homework questions
+- Explaining tricky topics
+- Writing and reading practice
+
+What are we working on?",1,30,11.62
+2,2026-10-31 15:58:25,hi version 2.0,Hi there! I'm Orbit. What's on your mind today?,3,9,22.28
+3,2026-10-31 15:59:48,what do you think about fucking a male boy,(Gemini returned an empty answer. Please rephrase.),9,7,0.95
+4,2026-10-31 16:00:30,teel le,"Did you mean ""tell me""? 
+
+If so, I'd be happy to! What kind of thing are you looking for? We could talk about an interesting fact, a story, a tricky question you've been thinking about, or whatever else is on your mind. Let me know what you're in the mood for.",2,51,29.53
+5,2026-10-31 16:00:51,yes,"Got it! Since we have a blank slate, here’s a cool concept to start us off:
+
+Have you ever heard of the **Overview Effect**? 
+
+It’s a psychological shift that many astronauts report when they see Earth from space for the first time. Looking down at a tiny, fragile blue ball floating in the void of space often gives them a sudden, overwhelming sense of unity, making human conflict and boundaries seem completely insignificant. 
+
+Does that kind of topic interest you, or were you hoping for something different—like a random fact, a thought-provoking question, or something personal on your mind?",1,99,12.85

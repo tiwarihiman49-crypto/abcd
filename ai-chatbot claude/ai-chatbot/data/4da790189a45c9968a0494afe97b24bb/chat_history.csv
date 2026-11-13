@@ -1,0 +1,9 @@
+chat_no,timestamp,question,answer,question_words,answer_words,response_time_sec
+1,2026-10-23 15:10:29,safe test prompt,"Hello! Everything is working great. 
+
+I am ready to help you! You can ask me about:
+- Homework questions
+- Math, science, or history
+- Easy explanations for hard topics
+
+What would you like to learn about today?",3,38,4.0
